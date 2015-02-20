@@ -1,0 +1,39 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace CalculateLetterGradeConsole
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Enter a numeric grade to convert: ");
+            int numberGrade = int.Parse(Console.ReadLine());
+           
+            if (numberGrade >= 89)
+            {
+                Console.WriteLine("Your grade is an A!");
+            }
+            else if(numberGrade <= 88 && numberGrade >= 80)
+            {
+                Console.WriteLine("Your grade is an B!");
+            }
+            else if(numberGrade <= 79 && numberGrade >= 68)
+            {
+                Console.WriteLine("Your grade is an C");
+            }
+            else if (numberGrade <= 67 && numberGrade >= 60)
+            {
+                Console.WriteLine("Your grade is an D");
+            }
+            else if (numberGrade <= 60)
+            {
+                Console.WriteLine("Your grade is an F");
+            }
+            Console.ReadLine();
+        }
+    }
+}
