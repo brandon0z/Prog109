@@ -1,0 +1,5 @@
+C:\Users\brandon\Desktop\Prog109\AnimalShelter\FileRead\FileRead\bin\Debug\FileRead.exe.config
+C:\Users\brandon\Desktop\Prog109\AnimalShelter\FileRead\FileRead\bin\Debug\FileRead.exe
+C:\Users\brandon\Desktop\Prog109\AnimalShelter\FileRead\FileRead\bin\Debug\FileRead.pdb
+C:\Users\brandon\Desktop\Prog109\AnimalShelter\FileRead\FileRead\obj\Debug\FileRead.exe
+C:\Users\brandon\Desktop\Prog109\AnimalShelter\FileRead\FileRead\obj\Debug\FileRead.pdb

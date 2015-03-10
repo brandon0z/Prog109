@@ -1,0 +1,6 @@
+C:\Users\brandon\Desktop\Prog109\AnimalShelter\FIleIo\FIleIo\bin\Debug\FIleIo.exe.config
+C:\Users\brandon\Desktop\Prog109\AnimalShelter\FIleIo\FIleIo\obj\Debug\FIleIo.csprojResolveAssemblyReference.cache
+C:\Users\brandon\Desktop\Prog109\AnimalShelter\FIleIo\FIleIo\bin\Debug\FIleIo.exe
+C:\Users\brandon\Desktop\Prog109\AnimalShelter\FIleIo\FIleIo\bin\Debug\FIleIo.pdb
+C:\Users\brandon\Desktop\Prog109\AnimalShelter\FIleIo\FIleIo\obj\Debug\FIleIo.exe
+C:\Users\brandon\Desktop\Prog109\AnimalShelter\FIleIo\FIleIo\obj\Debug\FIleIo.pdb

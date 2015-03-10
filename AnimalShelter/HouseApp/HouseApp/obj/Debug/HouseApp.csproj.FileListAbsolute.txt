@@ -1,0 +1,6 @@
+C:\Users\brandon\Desktop\Prog109\AnimalShelter\HouseApp\HouseApp\bin\Debug\HouseApp.exe.config
+C:\Users\brandon\Desktop\Prog109\AnimalShelter\HouseApp\HouseApp\obj\Debug\HouseApp.csprojResolveAssemblyReference.cache
+C:\Users\brandon\Desktop\Prog109\AnimalShelter\HouseApp\HouseApp\bin\Debug\HouseApp.exe
+C:\Users\brandon\Desktop\Prog109\AnimalShelter\HouseApp\HouseApp\bin\Debug\HouseApp.pdb
+C:\Users\brandon\Desktop\Prog109\AnimalShelter\HouseApp\HouseApp\obj\Debug\HouseApp.exe
+C:\Users\brandon\Desktop\Prog109\AnimalShelter\HouseApp\HouseApp\obj\Debug\HouseApp.pdb
