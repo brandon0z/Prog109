@@ -1,0 +1,6 @@
+C:\Users\brandon\Desktop\Prog109\AnimalShelter\Assignment8Rectangle\Assignment8Rectangle\bin\Debug\Assignment8Rectangle.exe.config
+C:\Users\brandon\Desktop\Prog109\AnimalShelter\Assignment8Rectangle\Assignment8Rectangle\obj\Debug\Assignment8Rectangle.csprojResolveAssemblyReference.cache
+C:\Users\brandon\Desktop\Prog109\AnimalShelter\Assignment8Rectangle\Assignment8Rectangle\bin\Debug\Assignment8Rectangle.exe
+C:\Users\brandon\Desktop\Prog109\AnimalShelter\Assignment8Rectangle\Assignment8Rectangle\bin\Debug\Assignment8Rectangle.pdb
+C:\Users\brandon\Desktop\Prog109\AnimalShelter\Assignment8Rectangle\Assignment8Rectangle\obj\Debug\Assignment8Rectangle.exe
+C:\Users\brandon\Desktop\Prog109\AnimalShelter\Assignment8Rectangle\Assignment8Rectangle\obj\Debug\Assignment8Rectangle.pdb

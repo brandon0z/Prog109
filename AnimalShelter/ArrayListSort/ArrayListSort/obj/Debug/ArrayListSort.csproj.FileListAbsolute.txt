@@ -1,0 +1,5 @@
+C:\Users\brandon\Desktop\Prog109\AnimalShelter\ArrayListSort\ArrayListSort\bin\Debug\ArrayListSort.exe.config
+C:\Users\brandon\Desktop\Prog109\AnimalShelter\ArrayListSort\ArrayListSort\bin\Debug\ArrayListSort.exe
+C:\Users\brandon\Desktop\Prog109\AnimalShelter\ArrayListSort\ArrayListSort\bin\Debug\ArrayListSort.pdb
+C:\Users\brandon\Desktop\Prog109\AnimalShelter\ArrayListSort\ArrayListSort\obj\Debug\ArrayListSort.exe
+C:\Users\brandon\Desktop\Prog109\AnimalShelter\ArrayListSort\ArrayListSort\obj\Debug\ArrayListSort.pdb
